@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.himesh13.tagmanplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.himesh13.tagmanplugin.MyBundle
 
 class MyApplicationService {
 
